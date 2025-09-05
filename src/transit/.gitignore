@@ -2,7 +2,7 @@
 /bin/
 *.class
 
-# Ignore IntelliJ IDEA project files
+# Ignore IDEA project files
 *.iml
 .idea/
 
