@@ -10,4 +10,4 @@
 .DS_Store
 
 # Ignore logs
-*.log
+*.loggit remote -v
