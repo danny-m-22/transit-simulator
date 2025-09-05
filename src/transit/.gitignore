@@ -1,0 +1,13 @@
+# Ignore compiled class files
+/bin/
+*.class
+
+# Ignore IntelliJ IDEA project files
+*.iml
+.idea/
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore logs
+*.log
